@@ -1,13 +1,11 @@
 # uhppoted
 
-Cross-platform components for building access control systems based on the UHPPOTE UT0xxx TCP/IP access controller boards.
-
 ---
-#### MOVED TO codeberg.org
+#### MOVED TO CODEBERG.ORG
 
-**This is a courtesy notice to let you know the the https://githbub.com/uhppoted repository has moved to https://codeberg.org/uhppoted.**
+**This is a courtesy notice to let you know that the https://githbub.com/uhppoted repository has moved to https://codeberg.org/uhppoted.**
 
-_Apologies for any incovenience caused._
+_Apologies for any incovenience._
 
 ---
 
